@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">HeadlineHub</string>
+    <string name="scroll_news">Scroll News</string>
+    <string name="select_a_region">Select a region</string>
+    <string name="select_a_category">Select a category</string>
+    <string-array name="region">
+        <item>India</item>
+        <item>USA</item>
+        <item>Australia</item>
+        <item>Canada</item>
+        <item>China</item>
+        <item>France</item>
+        <item>Japan</item>
+        <item>United Kingdom</item>
+    </string-array>
+    <string-array name="category">
+        <item>sports</item>
+        <item>technology</item>
+        <item>business</item>
+        <item>entertainment</item>
+        <item>general</item>
+        <item>health</item>
+        <item>science</item>
+    </string-array>
+</resources>
